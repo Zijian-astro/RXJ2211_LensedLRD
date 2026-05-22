@@ -13,7 +13,7 @@ This repository contains the analysis code used to generate and check the main r
 | `Fig2ab_Fig3abc_FigS10a_lc_fitting.ipynb` | Main light-curve analysis, variability model fitting, parameter-space exploration, and figures corresponding to Fig. 2a,b, Fig. 3a-c, and Fig. S10a for RX1.  This notebook also generates the cached `chi2_grid_data.npz` grid. |
 | `Fig2c_FigS7_FigS8_check_variability_othersrc.ipynb` | Variability and control-source checks for other lensed sources; used for Fig. 2c, Fig. S7, and Fig. S8. |
 | `FigS6_S10_galfitm_sed_RX2lc.ipynb` | GALFITM/photometric SED related checks and RX2 light-curve analysis used for Fig. S6 and Fig. S10. |
-| `FigureS2_selection_plot.ipynb` | Selection and comparison plots for the LRD sample, used for Fig. S2. |
+| `FigS2_selection_plot.ipynb` | Selection and comparison plots for the LRD sample, used for Fig. S2. |
 | `cluster_photz_distribution.ipynb` | EAZY photometric-redshift probability distributions for the cluster/lensed sources. |
 | `check_lensmodel_systematics.ipynb` | Lens-model systematic checks, including comparisons among alternative lens models, magnification and time-delay tables, and propagation into light-curve/SED quantities. |
 | `lc_fitting_chemamodel.ipynb` | Repeat light-curve fitting with the Chema/Diego Case2 lens model and comparison against the fiducial Oguri model. |
